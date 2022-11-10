@@ -1,1 +1,2 @@
 # Typhoid-Predictor
+Typhoid-Predictor is a machine learning-based web application for predicting compounds capable of inhibiting PhoP regulon of Salmonella Typhi which causes typhoid fever. The repository contains active and inactive compounds in a csv file format used to train the ML algorithms. The predictive models are available as .sav files. The respective python scripts for each model developed is available in the repository as well. 
