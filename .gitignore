@@ -1,0 +1,6 @@
+*/__pycache__
+/venv
+*.pyc
+*.env
+/.ipynb_checkpoints
+/ml_notebooks
